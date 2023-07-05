@@ -1,6 +1,7 @@
 # NightHazeFormer
 This is the office repository of ***NightHazeFormer: Single Nighttime Haze Removal Using Prior Query Transformer***
-**Yun Liu, Zhongsheng Yan，Sixiang Chen, Tian Ye，Wenqi Ren，Erkang Chen.**
+
+**Authors: Yun Liu, Zhongsheng Yan，Sixiang Chen, Tian Ye，Wenqi Ren，Erkang Chen.**
 
 [Arxiv](https://arxiv.org/pdf/2305.09533.pdf)
 
