@@ -14,7 +14,7 @@ This is the office repository of ***NightHazeFormer: Single Nighttime Haze Remov
 
 ![1691480677807.png](./img/1691480677807.png)
 
-![1691480632940.png](./img/1691480632940.png)
+<!-- ![1691480632940.png](./img/1691480632940.png) -->
 
 
 
