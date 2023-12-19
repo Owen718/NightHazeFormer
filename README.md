@@ -27,8 +27,8 @@ BaiduDrive Link: https://pan.baidu.com/s/1a3kJOk2zgF3tCShEnqBQKQ  [password:mm23
 ```
 
 ## TODO List
-- [x] Release Dataset
+- [x] Release Synthetic UNREAL-NH Dataset
 - [x] Release RealNH-50 
-- [ ] Release Enhancement Results of NightHazeFormer
+- [ ] Release Enhancement Results (RealNH-50&UNREAL-NH) of NightHazeFormer
 
 
