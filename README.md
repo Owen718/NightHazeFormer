@@ -25,10 +25,15 @@ BaiduDrive Link: https://pan.baidu.com/s/1a3kJOk2zgF3tCShEnqBQKQ  [password:mm23
 ```
 ./REAL-NH_50.zip
 ```
+Results:
+```
+./results_REAL-NH(50).zip
+```
+
 
 ## TODO List
 - [x] Release Synthetic UNREAL-NH Dataset
 - [x] Release RealNH-50 
-- [ ] Release Enhancement Results (RealNH-50&UNREAL-NH) of NightHazeFormer
+- [x] Release Enhancement Results (RealNH-50) of NightHazeFormer
 
 
